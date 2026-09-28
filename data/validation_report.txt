@@ -1,0 +1,57 @@
+== Subtypes don't sum to parent (5)
+  report 2015, 2015 citywide/citywide CITIZEN ROBBERY: parent=43, subtypes sum=42
+  report 2015, 2015 ward/citywide CITIZEN ROBBERY: parent=43, subtypes sum=42
+  report 2015, 2015 ward/ward_3 CITIZEN ROBBERY: parent=15, subtypes sum=14
+  report 2022, 2022 ward/citywide CITIZEN ROBBERY: parent=34, subtypes sum=36
+  report 2022, 2022 ward/ward_5 CITIZEN ROBBERY: parent=9, subtypes sum=11
+
+== Ward table total != citywide table (3)
+  report 2022 CITIZEN ROBBERY/KNIFE: ward table=5, citywide table=3
+  report 2022 ASSAULT/OTHER WEAPON: ward table=11, citywide table=12
+  report 2022 ASSAULT/NO WEAPON: ward table=100, citywide table=99
+
+== Revised between reports (17)
+  2015 citywide/citywide CITIZEN ROBBERY/KNIFE: 2015 report: 4; 2016 report: 5
+  2015 citywide/citywide CITIZEN ROBBERY/OTHER WEAPON: 2015 report: 4; 2016 report: 3
+  2015 citywide/citywide CITIZEN ROBBERY/STRONG ARM: 2015 report: 18; 2016 report: 19
+  2024 citywide/citywide THEFT: 2024 report: 464; 2025 report: 465
+  2024 citywide/citywide property: 2024 report: 685; 2025 report: 686
+  2024 citywide/citywide total: 2024 report: 910; 2025 report: 911
+  2015 CANINE_ACTIVITY_REPORTS: 2015 report: 53; 2016 report: 47
+  2015 RED_LIGHT_CITATIONS: 2015 report: 4918; 2016 report: 4915
+  2019 ARRESTS_ADULT: 2019 report: 688; 2020 report: 684
+  2019 ARRESTS_TOTAL: 2019 report: 781; 2020 report: 777
+  2020 ARRESTS_ADULT: 2020 report: 358; 2021 report: 382
+  2020 ARRESTS_JUVENILE: 2020 report: 40; 2021 report: 41
+  2020 ARRESTS_TOTAL: 2020 report: 398; 2021 report: 423
+  2024 ARRESTS_ADULT: 2024 report: 351; 2025 report: 359
+  2024 ARRESTS_TOTAL: 2024 report: 393; 2025 report: 401
+  2017 calls for service: 2017 report: 25277; 2018 report: 24442
+  2018 calls for service: 2018 report: 23546; 2019 report: 23859
+
+== % change: zero-year formula quirk (not a data error) (19)
+  report 2015 HOMICIDE: 2->0, printed -200.0% (true change -100%)
+  report 2015 COMMERCIAL ROBBERY/OTHER WEAPON: 0->1, printed 100.0% (true change undefined)
+  report 2016 HOMICIDE: 0->1, printed 100.0% (true change undefined)
+  report 2016 COMMERCIAL ROBBERY/STRONG ARM: 0->1, printed 100.0% (true change undefined)
+  report 2016 CITIZEN ROBBERY/OTHER WEAPON: 3->0, printed -300.0% (true change -100%)
+  report 2016 ARSON: 3->0, printed -300.0% (true change -100%)
+  report 2017 CITIZEN ROBBERY/OTHER WEAPON: 0->1, printed 100.0% (true change undefined)
+  report 2018 COMMERCIAL ROBBERY/GUN: 4->0, printed -400.0% (true change -100%)
+  report 2019 HOMICIDE: 0->4, printed 400.0% (true change undefined)
+  report 2019 COMMERCIAL ROBBERY/GUN: 0->2, printed 200.0% (true change undefined)
+  report 2019 COMMERCIAL ROBBERY/OTHER WEAPON: 0->1, printed 100.0% (true change undefined)
+  report 2019 CITIZEN ROBBERY/OTHER WEAPON: 2->0, printed -200.0% (true change -100%)
+  report 2020 COMMERCIAL ROBBERY/KNIFE: 0->2, printed 200.0% (true change undefined)
+  report 2020 ARSON: 0->1, printed 100.0% (true change undefined)
+  report 2021 COMMERCIAL ROBBERY/STRONG ARM: 0->1, printed 100.0% (true change undefined)
+  report 2021 CITIZEN ROBBERY/OTHER WEAPON: 0->1, printed 100.0% (true change undefined)
+  report 2023 COMMERCIAL ROBBERY/OTHER WEAPON: 0->8, printed 800.0% (true change undefined)
+  report 2025 CITIZEN ROBBERY/OTHER WEAPON: 0->2, printed 200.0% (true change undefined)
+  report 2025 ARSON: 0->2, printed 200.0% (true change undefined)
+
+== % change printed wrong (1)
+  report 2022 CITATIONS_STATE: 2099->3690, printed 183.85%, actual 75.80%
+
+== Chart value != table value (1)
+  report 2025 chart, 2024 THEFT: chart=465, table (own-year report)=464

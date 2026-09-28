@@ -1,0 +1,2026 @@
+report_year,data_year,source_table,geography,category,offense,subtype,count,reported_pct_change,source_file,page
+2015,2014,citywide,citywide,persons,HOMICIDE,,2,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,RAPE,,9,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,COMMERCIAL ROBBERY,,5,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,4,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,CITIZEN ROBBERY,,53,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,CITIZEN ROBBERY,GUN,21,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,4,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,3,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,25,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,CARJACKING,,1,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,ASSAULT,,90,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,ASSAULT,GUN,7,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,ASSAULT,KNIFE,9,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,ASSAULT,OTHER WEAPON,7,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,persons,ASSAULT,NO WEAPON,67,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,property,B & E RESIDENTIAL,,105,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,property,B & E RESIDENTIAL,HOMES,101,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,4,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,property,B & E COMMERCIAL,,18,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,property,STOLEN VEHICLE,,63,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,property,THEFT,,987,,2015 ANNUAL STATISTICS.pdf,1
+2015,2014,citywide,citywide,property,ARSON,,2,,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,HOMICIDE,,0,-200.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,RAPE,,2,-77.78,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,,6,20.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,5,25.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,0.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,100.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,0,-100.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,CITIZEN ROBBERY,,43,-18.87,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,CITIZEN ROBBERY,GUN,16,-23.81,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,4,0.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,4,33.33,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,18,-28.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,CARJACKING,,1,0.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,ASSAULT,,127,41.11,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,ASSAULT,GUN,4,-42.86,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,ASSAULT,KNIFE,18,100.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,ASSAULT,OTHER WEAPON,11,57.14,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,persons,ASSAULT,NO WEAPON,94,40.3,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,property,B & E RESIDENTIAL,,63,-40.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,property,B & E RESIDENTIAL,HOMES,61,-39.6,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,2,-50.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,property,B & E COMMERCIAL,,22,22.22,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,property,STOLEN VEHICLE,,62,-1.59,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,property,THEFT,,889,-9.93,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,citywide,citywide,property,ARSON,,3,50.0,2015 ANNUAL STATISTICS.pdf,1
+2015,2015,ward,ward_1,persons,HOMICIDE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,HOMICIDE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,HOMICIDE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,HOMICIDE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,HOMICIDE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,HOMICIDE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,RAPE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,RAPE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,RAPE,,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,RAPE,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,RAPE,,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,RAPE,,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,COMMERCIAL ROBBERY,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,COMMERCIAL ROBBERY,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,COMMERCIAL ROBBERY,,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,COMMERCIAL ROBBERY,,5,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,COMMERCIAL ROBBERY,,6,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,5,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,CITIZEN ROBBERY,,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,CITIZEN ROBBERY,,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,CITIZEN ROBBERY,,15,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,CITIZEN ROBBERY,,9,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,CITIZEN ROBBERY,,11,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,CITIZEN ROBBERY,,43,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,CITIZEN ROBBERY,GUN,3,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,CITIZEN ROBBERY,GUN,3,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,CITIZEN ROBBERY,GUN,3,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,CITIZEN ROBBERY,GUN,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,CITIZEN ROBBERY,GUN,3,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,CITIZEN ROBBERY,GUN,16,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,9,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,5,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,18,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,CARJACKING,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,CARJACKING,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,CARJACKING,,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,CARJACKING,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,CARJACKING,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,CARJACKING,,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,ASSAULT,,26,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,ASSAULT,,11,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,ASSAULT,,38,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,ASSAULT,,18,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,ASSAULT,,34,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,ASSAULT,,127,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,ASSAULT,GUN,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,ASSAULT,GUN,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,ASSAULT,GUN,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,ASSAULT,GUN,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,ASSAULT,GUN,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,ASSAULT,GUN,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,ASSAULT,KNIFE,5,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,ASSAULT,KNIFE,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,ASSAULT,KNIFE,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,ASSAULT,KNIFE,3,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,ASSAULT,KNIFE,5,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,ASSAULT,KNIFE,18,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,ASSAULT,OTHER WEAPON,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,ASSAULT,OTHER WEAPON,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,ASSAULT,OTHER WEAPON,3,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,ASSAULT,OTHER WEAPON,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,ASSAULT,OTHER WEAPON,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,ASSAULT,OTHER WEAPON,11,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,persons,ASSAULT,NO WEAPON,17,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,persons,ASSAULT,NO WEAPON,9,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,persons,ASSAULT,NO WEAPON,31,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,persons,ASSAULT,NO WEAPON,12,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,persons,ASSAULT,NO WEAPON,25,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,persons,ASSAULT,NO WEAPON,94,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,property,B & E RESIDENTIAL,,11,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,property,B & E RESIDENTIAL,,11,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,property,B & E RESIDENTIAL,,10,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,property,B & E RESIDENTIAL,,19,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,property,B & E RESIDENTIAL,,12,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,property,B & E RESIDENTIAL,,63,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,property,B & E RESIDENTIAL,HOMES,9,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,property,B & E RESIDENTIAL,HOMES,11,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,property,B & E RESIDENTIAL,HOMES,10,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,property,B & E RESIDENTIAL,HOMES,19,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,property,B & E RESIDENTIAL,HOMES,12,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,property,B & E RESIDENTIAL,HOMES,61,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,property,B & E COMMERCIAL,,9,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,property,B & E COMMERCIAL,,3,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,property,B & E COMMERCIAL,,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,property,B & E COMMERCIAL,,4,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,property,B & E COMMERCIAL,,2,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,property,B & E COMMERCIAL,,22,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,property,STOLEN VEHICLE,,8,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,property,STOLEN VEHICLE,,7,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,property,STOLEN VEHICLE,,10,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,property,STOLEN VEHICLE,,17,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,property,STOLEN VEHICLE,,20,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,property,STOLEN VEHICLE,,62,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,property,THEFT,,91,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,property,THEFT,,32,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,property,THEFT,,661,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,property,THEFT,,35,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,property,THEFT,,70,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,property,THEFT,,889,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_1,property,ARSON,,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_2,property,ARSON,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_3,property,ARSON,,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_4,property,ARSON,,1,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,ward_5,property,ARSON,,0,,2015 ANNUAL STATISTICS.pdf,3
+2015,2015,ward,citywide,property,ARSON,,3,,2015 ANNUAL STATISTICS.pdf,3
+2016,2015,citywide,citywide,persons,HOMICIDE,,0,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,RAPE,,2,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,,6,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,5,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,CITIZEN ROBBERY,,43,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,CITIZEN ROBBERY,GUN,16,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,5,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,3,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,19,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,CARJACKING,,1,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,ASSAULT,,127,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,ASSAULT,GUN,4,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,ASSAULT,KNIFE,18,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,ASSAULT,OTHER WEAPON,11,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,persons,ASSAULT,NO WEAPON,94,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,property,B & E RESIDENTIAL,,63,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,property,B & E RESIDENTIAL,HOMES,61,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,property,B & E COMMERCIAL,,22,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,property,STOLEN VEHICLE,,62,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,property,THEFT,,889,,2016 Annual Statistics.pdf,1
+2016,2015,citywide,citywide,property,ARSON,,3,,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,HOMICIDE,,1,100.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,RAPE,,3,50.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,,2,-66.67,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,1,-80.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,0.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,-100.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,100.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,CITIZEN ROBBERY,,75,74.42,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,CITIZEN ROBBERY,GUN,31,93.75,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,7,40.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,-300.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,37,94.74,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,CARJACKING,,3,200.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,ASSAULT,,125,-1.57,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,ASSAULT,GUN,5,25.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,ASSAULT,KNIFE,18,0.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,ASSAULT,OTHER WEAPON,6,-45.45,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,persons,ASSAULT,NO WEAPON,96,2.13,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,property,B & E RESIDENTIAL,,63,0.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,property,B & E RESIDENTIAL,HOMES,58,-4.92,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,5,150.0,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,property,B & E COMMERCIAL,,17,-22.73,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,property,STOLEN VEHICLE,,65,4.84,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,property,THEFT,,878,-1.24,2016 Annual Statistics.pdf,1
+2016,2016,citywide,citywide,property,ARSON,,0,-300.0,2016 Annual Statistics.pdf,1
+2016,2016,ward,ward_1,persons,HOMICIDE,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,HOMICIDE,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,HOMICIDE,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,HOMICIDE,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,HOMICIDE,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,HOMICIDE,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,RAPE,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,RAPE,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,RAPE,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,RAPE,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,RAPE,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,RAPE,,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,COMMERCIAL ROBBERY,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,COMMERCIAL ROBBERY,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,COMMERCIAL ROBBERY,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,COMMERCIAL ROBBERY,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,COMMERCIAL ROBBERY,,2,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,CITIZEN ROBBERY,,6,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,CITIZEN ROBBERY,,4,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,CITIZEN ROBBERY,,26,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,CITIZEN ROBBERY,,13,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,CITIZEN ROBBERY,,26,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,CITIZEN ROBBERY,,75,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,CITIZEN ROBBERY,GUN,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,CITIZEN ROBBERY,GUN,2,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,CITIZEN ROBBERY,GUN,10,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,CITIZEN ROBBERY,GUN,7,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,CITIZEN ROBBERY,GUN,9,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,CITIZEN ROBBERY,GUN,31,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,7,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,2,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,13,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,5,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,14,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,37,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,CARJACKING,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,CARJACKING,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,CARJACKING,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,CARJACKING,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,CARJACKING,,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,CARJACKING,,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,ASSAULT,,19,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,ASSAULT,,15,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,ASSAULT,,45,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,ASSAULT,,17,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,ASSAULT,,29,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,ASSAULT,,125,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,ASSAULT,GUN,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,ASSAULT,GUN,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,ASSAULT,GUN,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,ASSAULT,GUN,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,ASSAULT,GUN,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,ASSAULT,GUN,5,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,ASSAULT,KNIFE,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,ASSAULT,KNIFE,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,ASSAULT,KNIFE,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,ASSAULT,KNIFE,2,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,ASSAULT,KNIFE,7,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,ASSAULT,KNIFE,18,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,ASSAULT,OTHER WEAPON,2,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,ASSAULT,OTHER WEAPON,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,ASSAULT,OTHER WEAPON,2,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,ASSAULT,OTHER WEAPON,1,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,ASSAULT,OTHER WEAPON,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,ASSAULT,OTHER WEAPON,6,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,persons,ASSAULT,NO WEAPON,13,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,persons,ASSAULT,NO WEAPON,11,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,persons,ASSAULT,NO WEAPON,40,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,persons,ASSAULT,NO WEAPON,13,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,persons,ASSAULT,NO WEAPON,19,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,persons,ASSAULT,NO WEAPON,96,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,property,B & E RESIDENTIAL,,16,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,property,B & E RESIDENTIAL,,8,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,property,B & E RESIDENTIAL,,17,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,property,B & E RESIDENTIAL,,6,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,property,B & E RESIDENTIAL,,16,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,property,B & E RESIDENTIAL,,63,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,property,B & E RESIDENTIAL,HOMES,11,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,property,B & E RESIDENTIAL,HOMES,8,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,property,B & E RESIDENTIAL,HOMES,17,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,property,B & E RESIDENTIAL,HOMES,6,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,property,B & E RESIDENTIAL,HOMES,16,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,property,B & E RESIDENTIAL,HOMES,58,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,5,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,5,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,property,B & E COMMERCIAL,,8,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,property,B & E COMMERCIAL,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,property,B & E COMMERCIAL,,6,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,property,B & E COMMERCIAL,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,property,B & E COMMERCIAL,,3,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,property,B & E COMMERCIAL,,17,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,property,STOLEN VEHICLE,,10,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,property,STOLEN VEHICLE,,5,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,property,STOLEN VEHICLE,,23,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,property,STOLEN VEHICLE,,14,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,property,STOLEN VEHICLE,,13,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,property,STOLEN VEHICLE,,65,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,property,THEFT,,103,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,property,THEFT,,34,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,property,THEFT,,633,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,property,THEFT,,42,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,property,THEFT,,66,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,property,THEFT,,878,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_1,property,ARSON,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_2,property,ARSON,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_3,property,ARSON,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_4,property,ARSON,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,ward_5,property,ARSON,,0,,2016 Annual Statistics.pdf,3
+2016,2016,ward,citywide,property,ARSON,,0,,2016 Annual Statistics.pdf,3
+2017,2016,citywide,citywide,persons,HOMICIDE,,1,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,RAPE,,3,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,,2,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,1,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,CITIZEN ROBBERY,,75,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,CITIZEN ROBBERY,GUN,31,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,7,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,37,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,CARJACKING,,3,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,ASSAULT,,125,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,ASSAULT,GUN,5,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,ASSAULT,KNIFE,18,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,ASSAULT,OTHER WEAPON,6,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,persons,ASSAULT,NO WEAPON,96,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,property,B & E RESIDENTIAL,,63,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,property,B & E RESIDENTIAL,HOMES,58,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,5,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,property,B & E COMMERCIAL,,17,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,property,STOLEN VEHICLE,,65,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,property,THEFT,,878,,2017 Annual Statistics.pdf,1
+2017,2016,citywide,citywide,property,ARSON,,0,,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,HOMICIDE,,1,0.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,RAPE,,2,-33.33,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,,5,150.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,4,300.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,0.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,0.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,0.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,CITIZEN ROBBERY,,55,-26.67,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,CITIZEN ROBBERY,GUN,25,-19.35,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,3,-57.14,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,100.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,26,-29.73,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,CARJACKING,,1,-66.67,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,ASSAULT,,121,-3.2,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,ASSAULT,GUN,11,120.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,ASSAULT,KNIFE,11,-38.89,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,ASSAULT,OTHER WEAPON,4,-33.33,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,persons,ASSAULT,NO WEAPON,95,-1.04,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,property,B & E RESIDENTIAL,,54,-14.29,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,property,B & E RESIDENTIAL,HOMES,51,-12.07,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,3,-40.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,property,B & E COMMERCIAL,,25,47.06,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,property,STOLEN VEHICLE,,78,20.0,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,property,THEFT,,863,-1.71,2017 Annual Statistics.pdf,1
+2017,2017,citywide,citywide,property,ARSON,,0,0.0,2017 Annual Statistics.pdf,1
+2017,2017,ward,ward_1,persons,HOMICIDE,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,HOMICIDE,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,HOMICIDE,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,HOMICIDE,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,HOMICIDE,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,HOMICIDE,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,RAPE,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,RAPE,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,RAPE,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,RAPE,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,RAPE,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,RAPE,,2,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,COMMERCIAL ROBBERY,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,COMMERCIAL ROBBERY,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,COMMERCIAL ROBBERY,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,COMMERCIAL ROBBERY,,4,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,COMMERCIAL ROBBERY,,5,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,3,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,4,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,CITIZEN ROBBERY,,6,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,CITIZEN ROBBERY,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,CITIZEN ROBBERY,,24,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,CITIZEN ROBBERY,,8,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,CITIZEN ROBBERY,,16,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,CITIZEN ROBBERY,,55,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,CITIZEN ROBBERY,GUN,4,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,CITIZEN ROBBERY,GUN,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,CITIZEN ROBBERY,GUN,7,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,CITIZEN ROBBERY,GUN,7,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,CITIZEN ROBBERY,GUN,6,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,CITIZEN ROBBERY,GUN,25,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,2,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,3,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,2,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,16,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,7,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,26,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,CARJACKING,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,CARJACKING,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,CARJACKING,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,CARJACKING,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,CARJACKING,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,CARJACKING,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,ASSAULT,,24,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,ASSAULT,,7,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,ASSAULT,,50,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,ASSAULT,,12,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,ASSAULT,,28,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,ASSAULT,,121,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,ASSAULT,GUN,2,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,ASSAULT,GUN,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,ASSAULT,GUN,4,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,ASSAULT,GUN,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,ASSAULT,GUN,5,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,ASSAULT,GUN,11,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,ASSAULT,KNIFE,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,ASSAULT,KNIFE,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,ASSAULT,KNIFE,5,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,ASSAULT,KNIFE,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,ASSAULT,KNIFE,3,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,ASSAULT,KNIFE,11,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,ASSAULT,OTHER WEAPON,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,ASSAULT,OTHER WEAPON,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,ASSAULT,OTHER WEAPON,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,ASSAULT,OTHER WEAPON,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,ASSAULT,OTHER WEAPON,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,ASSAULT,OTHER WEAPON,4,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,persons,ASSAULT,NO WEAPON,21,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,persons,ASSAULT,NO WEAPON,5,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,persons,ASSAULT,NO WEAPON,40,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,persons,ASSAULT,NO WEAPON,10,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,persons,ASSAULT,NO WEAPON,19,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,persons,ASSAULT,NO WEAPON,95,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,property,B & E RESIDENTIAL,,4,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,property,B & E RESIDENTIAL,,8,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,property,B & E RESIDENTIAL,,13,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,property,B & E RESIDENTIAL,,13,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,property,B & E RESIDENTIAL,,16,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,property,B & E RESIDENTIAL,,54,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,property,B & E RESIDENTIAL,HOMES,4,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,property,B & E RESIDENTIAL,HOMES,8,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,property,B & E RESIDENTIAL,HOMES,12,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,property,B & E RESIDENTIAL,HOMES,11,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,property,B & E RESIDENTIAL,HOMES,16,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,property,B & E RESIDENTIAL,HOMES,51,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,property,B & E COMMERCIAL,,7,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,property,B & E COMMERCIAL,,1,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,property,B & E COMMERCIAL,,13,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,property,B & E COMMERCIAL,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,property,B & E COMMERCIAL,,4,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,property,B & E COMMERCIAL,,25,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,property,STOLEN VEHICLE,,21,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,property,STOLEN VEHICLE,,8,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,property,STOLEN VEHICLE,,17,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,property,STOLEN VEHICLE,,16,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,property,STOLEN VEHICLE,,16,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,property,STOLEN VEHICLE,,78,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,property,THEFT,,91,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,property,THEFT,,35,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,property,THEFT,,639,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,property,THEFT,,37,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,property,THEFT,,61,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,property,THEFT,,863,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_1,property,ARSON,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_2,property,ARSON,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_3,property,ARSON,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_4,property,ARSON,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,ward_5,property,ARSON,,0,,2017 Annual Statistics.pdf,3
+2017,2017,ward,citywide,property,ARSON,,0,,2017 Annual Statistics.pdf,3
+2018,2017,citywide,citywide,persons,HOMICIDE,,1,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,RAPE,,2,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,,5,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,4,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,CITIZEN ROBBERY,,55,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,CITIZEN ROBBERY,GUN,25,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,3,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,26,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,CARJACKING,,1,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,ASSAULT,,121,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,ASSAULT,GUN,11,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,ASSAULT,KNIFE,11,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,ASSAULT,OTHER WEAPON,4,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,persons,ASSAULT,NO WEAPON,95,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,property,B & E RESIDENTIAL,,54,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,property,B & E RESIDENTIAL,HOMES,51,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,property,B & E COMMERCIAL,,25,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,property,STOLEN VEHICLE,,78,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,property,THEFT,,863,,2018 Annual Statistics.pdf,1
+2018,2017,citywide,citywide,property,ARSON,,0,,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,HOMICIDE,,0,-100.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,RAPE,,3,50.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,,1,-80.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,0,-400.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,0.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,0.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,0.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,CITIZEN ROBBERY,,48,-12.73,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,CITIZEN ROBBERY,GUN,16,-36.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,7,133.33,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,2,100.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,23,-11.54,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,CARJACKING,,1,0.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,ASSAULT,,85,-29.75,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,ASSAULT,GUN,8,-27.27,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,ASSAULT,KNIFE,11,0.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,ASSAULT,OTHER WEAPON,8,100.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,persons,ASSAULT,NO WEAPON,58,-38.95,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,property,B & E RESIDENTIAL,,35,-35.19,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,property,B & E RESIDENTIAL,HOMES,31,-39.22,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,4,33.33,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,property,B & E COMMERCIAL,,14,-44.0,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,property,STOLEN VEHICLE,,60,-23.08,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,property,THEFT,,818,-5.21,2018 Annual Statistics.pdf,1
+2018,2018,citywide,citywide,property,ARSON,,0,0.0,2018 Annual Statistics.pdf,1
+2018,2018,ward,ward_1,persons,HOMICIDE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,HOMICIDE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,HOMICIDE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,HOMICIDE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,HOMICIDE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,HOMICIDE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,RAPE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,RAPE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,RAPE,,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,RAPE,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,RAPE,,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,RAPE,,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,COMMERCIAL ROBBERY,,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,CITIZEN ROBBERY,,4,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,CITIZEN ROBBERY,,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,CITIZEN ROBBERY,,23,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,CITIZEN ROBBERY,,7,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,CITIZEN ROBBERY,,12,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,CITIZEN ROBBERY,,48,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,CITIZEN ROBBERY,GUN,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,CITIZEN ROBBERY,GUN,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,CITIZEN ROBBERY,GUN,6,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,CITIZEN ROBBERY,GUN,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,CITIZEN ROBBERY,GUN,5,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,CITIZEN ROBBERY,GUN,16,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,7,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,13,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,4,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,23,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,CARJACKING,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,CARJACKING,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,CARJACKING,,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,CARJACKING,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,CARJACKING,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,CARJACKING,,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,ASSAULT,,12,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,ASSAULT,,6,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,ASSAULT,,34,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,ASSAULT,,11,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,ASSAULT,,22,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,ASSAULT,,85,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,ASSAULT,GUN,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,ASSAULT,GUN,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,ASSAULT,GUN,5,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,ASSAULT,GUN,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,ASSAULT,GUN,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,ASSAULT,GUN,8,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,ASSAULT,KNIFE,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,ASSAULT,KNIFE,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,ASSAULT,KNIFE,4,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,ASSAULT,KNIFE,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,ASSAULT,KNIFE,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,ASSAULT,KNIFE,11,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,ASSAULT,OTHER WEAPON,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,ASSAULT,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,ASSAULT,OTHER WEAPON,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,ASSAULT,OTHER WEAPON,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,ASSAULT,OTHER WEAPON,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,ASSAULT,OTHER WEAPON,8,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,persons,ASSAULT,NO WEAPON,8,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,persons,ASSAULT,NO WEAPON,5,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,persons,ASSAULT,NO WEAPON,22,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,persons,ASSAULT,NO WEAPON,9,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,persons,ASSAULT,NO WEAPON,14,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,persons,ASSAULT,NO WEAPON,58,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,property,B & E RESIDENTIAL,,10,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,property,B & E RESIDENTIAL,,8,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,property,B & E RESIDENTIAL,,5,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,property,B & E RESIDENTIAL,,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,property,B & E RESIDENTIAL,,9,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,property,B & E RESIDENTIAL,,35,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,property,B & E RESIDENTIAL,HOMES,9,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,property,B & E RESIDENTIAL,HOMES,7,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,property,B & E RESIDENTIAL,HOMES,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,property,B & E RESIDENTIAL,HOMES,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,property,B & E RESIDENTIAL,HOMES,9,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,property,B & E RESIDENTIAL,HOMES,31,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,4,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,property,B & E COMMERCIAL,,5,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,property,B & E COMMERCIAL,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,property,B & E COMMERCIAL,,7,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,property,B & E COMMERCIAL,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,property,B & E COMMERCIAL,,2,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,property,B & E COMMERCIAL,,14,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,property,STOLEN VEHICLE,,16,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,property,STOLEN VEHICLE,,6,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,property,STOLEN VEHICLE,,20,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,property,STOLEN VEHICLE,,3,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,property,STOLEN VEHICLE,,15,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,property,STOLEN VEHICLE,,60,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,property,THEFT,,84,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,property,THEFT,,39,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,property,THEFT,,560,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,property,THEFT,,32,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,property,THEFT,,103,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,property,THEFT,,818,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_1,property,ARSON,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_2,property,ARSON,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_3,property,ARSON,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_4,property,ARSON,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,ward_5,property,ARSON,,0,,2018 Annual Statistics.pdf,3
+2018,2018,ward,citywide,property,ARSON,,0,,2018 Annual Statistics.pdf,3
+2019,2018,citywide,citywide,persons,HOMICIDE,,0,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,RAPE,,3,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,,1,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,CITIZEN ROBBERY,,48,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,CITIZEN ROBBERY,GUN,16,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,7,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,2,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,23,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,CARJACKING,,1,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,ASSAULT,,85,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,ASSAULT,GUN,8,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,ASSAULT,KNIFE,11,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,ASSAULT,OTHER WEAPON,8,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,persons,ASSAULT,NO WEAPON,58,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,property,B & E RESIDENTIAL,,35,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,property,B & E RESIDENTIAL,HOMES,31,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,4,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,property,B & E COMMERCIAL,,14,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,property,STOLEN VEHICLE,,60,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,property,THEFT,,818,,2019 Annual Statistics.pdf,1
+2019,2018,citywide,citywide,property,ARSON,,0,,2019 Annual Statistics.pdf,1
+2019,2018,ward,ward_1,persons,HOMICIDE,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,HOMICIDE,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,HOMICIDE,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,HOMICIDE,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,HOMICIDE,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,RAPE,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,RAPE,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,RAPE,,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,RAPE,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,RAPE,,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,CITIZEN ROBBERY,,4,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,CITIZEN ROBBERY,,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,CITIZEN ROBBERY,,23,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,CITIZEN ROBBERY,,7,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,CITIZEN ROBBERY,,12,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,CITIZEN ROBBERY,GUN,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,CITIZEN ROBBERY,GUN,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,CITIZEN ROBBERY,GUN,6,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,CITIZEN ROBBERY,GUN,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,CITIZEN ROBBERY,GUN,5,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,13,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,4,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,CARJACKING,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,CARJACKING,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,CARJACKING,,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,CARJACKING,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,CARJACKING,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,ASSAULT,,12,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,ASSAULT,,6,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,ASSAULT,,34,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,ASSAULT,,11,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,ASSAULT,,22,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,ASSAULT,GUN,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,ASSAULT,GUN,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,ASSAULT,GUN,5,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,ASSAULT,GUN,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,ASSAULT,GUN,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,ASSAULT,KNIFE,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,ASSAULT,KNIFE,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,ASSAULT,KNIFE,4,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,ASSAULT,KNIFE,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,ASSAULT,KNIFE,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,ASSAULT,OTHER WEAPON,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,ASSAULT,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,ASSAULT,OTHER WEAPON,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,ASSAULT,OTHER WEAPON,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,ASSAULT,OTHER WEAPON,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,persons,ASSAULT,NO WEAPON,8,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,persons,ASSAULT,NO WEAPON,5,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,persons,ASSAULT,NO WEAPON,22,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,persons,ASSAULT,NO WEAPON,9,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,persons,ASSAULT,NO WEAPON,14,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,property,B & E RESIDENTIAL,,10,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,property,B & E RESIDENTIAL,,8,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,property,B & E RESIDENTIAL,,5,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,property,B & E RESIDENTIAL,,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,property,B & E RESIDENTIAL,,9,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,property,B & E RESIDENTIAL,HOMES,9,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,property,B & E RESIDENTIAL,HOMES,7,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,property,B & E RESIDENTIAL,HOMES,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,property,B & E RESIDENTIAL,HOMES,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,property,B & E RESIDENTIAL,HOMES,9,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,property,B & E COMMERCIAL,,5,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,property,B & E COMMERCIAL,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,property,B & E COMMERCIAL,,7,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,property,B & E COMMERCIAL,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,property,B & E COMMERCIAL,,2,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,property,STOLEN VEHICLE,,16,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,property,STOLEN VEHICLE,,6,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,property,STOLEN VEHICLE,,20,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,property,STOLEN VEHICLE,,3,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,property,STOLEN VEHICLE,,15,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,property,THEFT,,84,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,property,THEFT,,39,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,property,THEFT,,560,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,property,THEFT,,32,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,property,THEFT,,103,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_1,property,ARSON,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_2,property,ARSON,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_3,property,ARSON,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_4,property,ARSON,,0,,2019 Annual Statistics.pdf,4
+2019,2018,ward,ward_5,property,ARSON,,0,,2019 Annual Statistics.pdf,4
+2019,2019,citywide,citywide,persons,HOMICIDE,,4,400.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,RAPE,,3,0.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,,4,300.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,2,200.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,0.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,100.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,0.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,CITIZEN ROBBERY,,48,0.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,CITIZEN ROBBERY,GUN,19,18.75,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,10,42.86,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,-200.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,19,-17.39,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,CARJACKING,,2,100.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,ASSAULT,,116,36.47,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,ASSAULT,GUN,8,0.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,ASSAULT,KNIFE,11,0.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,ASSAULT,OTHER WEAPON,6,-25.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,persons,ASSAULT,NO WEAPON,91,56.9,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,property,B & E RESIDENTIAL,,42,20.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,property,B & E RESIDENTIAL,HOMES,37,19.35,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,5,25.0,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,property,B & E COMMERCIAL,,12,-14.29,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,property,STOLEN VEHICLE,,61,1.67,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,property,THEFT,,996,21.76,2019 Annual Statistics.pdf,1
+2019,2019,citywide,citywide,property,ARSON,,0,0.0,2019 Annual Statistics.pdf,1
+2019,2019,ward,ward_1,persons,HOMICIDE,,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,HOMICIDE,,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,HOMICIDE,,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,HOMICIDE,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,HOMICIDE,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,HOMICIDE,,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,RAPE,,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,RAPE,,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,RAPE,,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,RAPE,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,RAPE,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,RAPE,,3,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,COMMERCIAL ROBBERY,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,COMMERCIAL ROBBERY,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,COMMERCIAL ROBBERY,,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,COMMERCIAL ROBBERY,,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,COMMERCIAL ROBBERY,,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,CITIZEN ROBBERY,,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,CITIZEN ROBBERY,,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,CITIZEN ROBBERY,,21,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,CITIZEN ROBBERY,,6,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,CITIZEN ROBBERY,,15,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,CITIZEN ROBBERY,,48,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,CITIZEN ROBBERY,GUN,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,CITIZEN ROBBERY,GUN,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,CITIZEN ROBBERY,GUN,7,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,CITIZEN ROBBERY,GUN,3,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,CITIZEN ROBBERY,GUN,7,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,CITIZEN ROBBERY,GUN,19,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,10,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,3,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,10,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,19,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,CARJACKING,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,CARJACKING,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,CARJACKING,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,CARJACKING,,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,CARJACKING,,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,CARJACKING,,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,ASSAULT,,17,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,ASSAULT,,5,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,ASSAULT,,56,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,ASSAULT,,7,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,ASSAULT,,31,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,ASSAULT,,116,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,ASSAULT,GUN,3,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,ASSAULT,GUN,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,ASSAULT,GUN,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,ASSAULT,GUN,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,ASSAULT,GUN,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,ASSAULT,GUN,8,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,ASSAULT,KNIFE,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,ASSAULT,KNIFE,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,ASSAULT,KNIFE,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,ASSAULT,KNIFE,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,ASSAULT,KNIFE,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,ASSAULT,KNIFE,11,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,ASSAULT,OTHER WEAPON,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,ASSAULT,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,ASSAULT,OTHER WEAPON,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,ASSAULT,OTHER WEAPON,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,ASSAULT,OTHER WEAPON,3,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,ASSAULT,OTHER WEAPON,6,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,persons,ASSAULT,NO WEAPON,10,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,persons,ASSAULT,NO WEAPON,5,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,persons,ASSAULT,NO WEAPON,50,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,persons,ASSAULT,NO WEAPON,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,persons,ASSAULT,NO WEAPON,22,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,persons,ASSAULT,NO WEAPON,91,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,property,B & E RESIDENTIAL,,5,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,property,B & E RESIDENTIAL,,8,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,property,B & E RESIDENTIAL,,20,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,property,B & E RESIDENTIAL,,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,property,B & E RESIDENTIAL,,5,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,property,B & E RESIDENTIAL,,42,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,property,B & E RESIDENTIAL,HOMES,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,property,B & E RESIDENTIAL,HOMES,6,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,property,B & E RESIDENTIAL,HOMES,20,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,property,B & E RESIDENTIAL,HOMES,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,property,B & E RESIDENTIAL,HOMES,5,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,property,B & E RESIDENTIAL,HOMES,37,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,5,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,property,B & E COMMERCIAL,,4,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,property,B & E COMMERCIAL,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,property,B & E COMMERCIAL,,6,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,property,B & E COMMERCIAL,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,property,B & E COMMERCIAL,,2,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,property,B & E COMMERCIAL,,12,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,property,STOLEN VEHICLE,,6,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,property,STOLEN VEHICLE,,10,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,property,STOLEN VEHICLE,,22,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,property,STOLEN VEHICLE,,8,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,property,STOLEN VEHICLE,,15,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,property,STOLEN VEHICLE,,61,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,property,THEFT,,124,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,property,THEFT,,34,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,property,THEFT,,701,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,property,THEFT,,43,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,property,THEFT,,94,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,property,THEFT,,996,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_1,property,ARSON,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_2,property,ARSON,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_3,property,ARSON,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_4,property,ARSON,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,ward_5,property,ARSON,,0,,2019 Annual Statistics.pdf,3
+2019,2019,ward,citywide,property,ARSON,,0,,2019 Annual Statistics.pdf,3
+2020,2019,citywide,citywide,persons,HOMICIDE,,4,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,RAPE,,3,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,,4,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,2,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,0,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,CITIZEN ROBBERY,,48,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,CITIZEN ROBBERY,GUN,19,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,10,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,19,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,CARJACKING,,2,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,ASSAULT,,116,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,ASSAULT,GUN,8,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,ASSAULT,KNIFE,11,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,ASSAULT,OTHER WEAPON,6,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,persons,ASSAULT,NO WEAPON,91,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,property,B & E RESIDENTIAL,,42,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,property,B & E RESIDENTIAL,HOMES,37,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,5,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,property,B & E COMMERCIAL,,12,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,property,STOLEN VEHICLE,,61,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,property,THEFT,,996,,2020 Annual Statistics.pdf,1
+2020,2019,citywide,citywide,property,ARSON,,0,,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,HOMICIDE,,1,-75.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,RAPE,,3,0.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,,4,0.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,2,0.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,2,200.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,-100.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,0,-100.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,CITIZEN ROBBERY,,40,-16.67,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,CITIZEN ROBBERY,GUN,15,-21.05,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,7,-30.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,0.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,18,-5.26,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,CARJACKING,,9,350.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,ASSAULT,,100,-13.79,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,ASSAULT,GUN,7,-12.5,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,ASSAULT,KNIFE,11,0.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,ASSAULT,OTHER WEAPON,16,166.67,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,persons,ASSAULT,NO WEAPON,66,-27.47,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,property,B & E RESIDENTIAL,,47,11.9,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,property,B & E RESIDENTIAL,HOMES,31,-16.22,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,16,220.0,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,property,B & E COMMERCIAL,,25,108.33,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,property,STOLEN VEHICLE,,68,11.48,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,property,THEFT,,662,-33.53,2020 Annual Statistics.pdf,1
+2020,2020,citywide,citywide,property,ARSON,,1,100.0,2020 Annual Statistics.pdf,1
+2020,2020,ward,ward_1,persons,HOMICIDE,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,HOMICIDE,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,HOMICIDE,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,HOMICIDE,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,HOMICIDE,,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,HOMICIDE,,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,RAPE,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,RAPE,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,RAPE,,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,RAPE,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,RAPE,,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,RAPE,,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,COMMERCIAL ROBBERY,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,COMMERCIAL ROBBERY,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,COMMERCIAL ROBBERY,,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,COMMERCIAL ROBBERY,,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,COMMERCIAL ROBBERY,,4,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,CITIZEN ROBBERY,,4,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,CITIZEN ROBBERY,,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,CITIZEN ROBBERY,,14,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,CITIZEN ROBBERY,,7,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,CITIZEN ROBBERY,,14,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,CITIZEN ROBBERY,,40,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,CITIZEN ROBBERY,GUN,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,CITIZEN ROBBERY,GUN,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,CITIZEN ROBBERY,GUN,5,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,CITIZEN ROBBERY,GUN,4,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,CITIZEN ROBBERY,GUN,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,CITIZEN ROBBERY,GUN,15,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,7,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,7,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,8,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,18,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,CARJACKING,,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,CARJACKING,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,CARJACKING,,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,CARJACKING,,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,CARJACKING,,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,CARJACKING,,9,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,ASSAULT,,14,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,ASSAULT,,4,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,ASSAULT,,41,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,ASSAULT,,10,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,ASSAULT,,31,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,ASSAULT,,100,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,ASSAULT,GUN,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,ASSAULT,GUN,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,ASSAULT,GUN,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,ASSAULT,GUN,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,ASSAULT,GUN,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,ASSAULT,GUN,7,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,ASSAULT,KNIFE,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,ASSAULT,KNIFE,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,ASSAULT,KNIFE,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,ASSAULT,KNIFE,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,ASSAULT,KNIFE,5,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,ASSAULT,KNIFE,11,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,ASSAULT,OTHER WEAPON,4,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,ASSAULT,OTHER WEAPON,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,ASSAULT,OTHER WEAPON,5,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,ASSAULT,OTHER WEAPON,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,ASSAULT,OTHER WEAPON,5,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,ASSAULT,OTHER WEAPON,16,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,persons,ASSAULT,NO WEAPON,8,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,persons,ASSAULT,NO WEAPON,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,persons,ASSAULT,NO WEAPON,32,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,persons,ASSAULT,NO WEAPON,4,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,persons,ASSAULT,NO WEAPON,20,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,persons,ASSAULT,NO WEAPON,66,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,property,B & E RESIDENTIAL,,9,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,property,B & E RESIDENTIAL,,10,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,property,B & E RESIDENTIAL,,12,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,property,B & E RESIDENTIAL,,9,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,property,B & E RESIDENTIAL,,7,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,property,B & E RESIDENTIAL,,47,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,property,B & E RESIDENTIAL,HOMES,7,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,property,B & E RESIDENTIAL,HOMES,7,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,property,B & E RESIDENTIAL,HOMES,7,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,property,B & E RESIDENTIAL,HOMES,6,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,property,B & E RESIDENTIAL,HOMES,4,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,property,B & E RESIDENTIAL,HOMES,31,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,5,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,16,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,property,B & E COMMERCIAL,,9,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,property,B & E COMMERCIAL,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,property,B & E COMMERCIAL,,6,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,property,B & E COMMERCIAL,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,property,B & E COMMERCIAL,,10,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,property,B & E COMMERCIAL,,25,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,property,STOLEN VEHICLE,,17,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,property,STOLEN VEHICLE,,3,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,property,STOLEN VEHICLE,,27,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,property,STOLEN VEHICLE,,6,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,property,STOLEN VEHICLE,,15,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,property,STOLEN VEHICLE,,68,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,property,THEFT,,121,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,property,THEFT,,33,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,property,THEFT,,390,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,property,THEFT,,38,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,property,THEFT,,80,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,property,THEFT,,662,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_1,property,ARSON,,1,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_2,property,ARSON,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_3,property,ARSON,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_4,property,ARSON,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,ward_5,property,ARSON,,0,,2020 Annual Statistics.pdf,3
+2020,2020,ward,citywide,property,ARSON,,1,,2020 Annual Statistics.pdf,3
+2021,2020,citywide,citywide,persons,HOMICIDE,,1,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,RAPE,,3,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,,4,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,2,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,2,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,CITIZEN ROBBERY,,40,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,CITIZEN ROBBERY,GUN,15,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,7,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,18,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,CARJACKING,,9,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,ASSAULT,,100,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,ASSAULT,GUN,7,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,ASSAULT,KNIFE,11,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,ASSAULT,OTHER WEAPON,16,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,persons,ASSAULT,NO WEAPON,66,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,property,B & E RESIDENTIAL,,47,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,property,B & E RESIDENTIAL,HOMES,31,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,16,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,property,B & E COMMERCIAL,,25,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,property,STOLEN VEHICLE,,68,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,property,THEFT,,662,,2021 Annual Statistics.pdf,1
+2021,2020,citywide,citywide,property,ARSON,,1,,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,HOMICIDE,,1,0.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,RAPE,,6,100.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,,5,25.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,3,50.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,1,-50.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,0.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,100.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,CITIZEN ROBBERY,,25,-37.5,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,CITIZEN ROBBERY,GUN,12,-20.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,5,-28.57,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,100.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,7,-61.11,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,CARJACKING,,12,33.33,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,ASSAULT,,102,2.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,ASSAULT,GUN,12,71.43,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,ASSAULT,KNIFE,16,45.45,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,ASSAULT,OTHER WEAPON,7,-56.25,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,persons,ASSAULT,NO WEAPON,67,1.52,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,property,B & E RESIDENTIAL,,18,-61.7,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,property,B & E RESIDENTIAL,HOMES,15,-51.61,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,3,-81.25,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,property,B & E COMMERCIAL,,21,-16.0,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,property,STOLEN VEHICLE,,90,32.35,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,property,THEFT,,512,-22.66,2021 Annual Statistics.pdf,1
+2021,2021,citywide,citywide,property,ARSON,,1,0.0,2021 Annual Statistics.pdf,1
+2021,2021,ward,ward_1,persons,HOMICIDE,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,HOMICIDE,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,HOMICIDE,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,HOMICIDE,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,HOMICIDE,,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,HOMICIDE,,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,RAPE,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,RAPE,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,RAPE,,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,RAPE,,4,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,RAPE,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,RAPE,,6,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,COMMERCIAL ROBBERY,,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,COMMERCIAL ROBBERY,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,COMMERCIAL ROBBERY,,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,COMMERCIAL ROBBERY,,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,COMMERCIAL ROBBERY,,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,3,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,CITIZEN ROBBERY,,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,CITIZEN ROBBERY,,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,CITIZEN ROBBERY,,15,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,CITIZEN ROBBERY,,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,CITIZEN ROBBERY,,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,CITIZEN ROBBERY,,25,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,CITIZEN ROBBERY,GUN,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,CITIZEN ROBBERY,GUN,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,CITIZEN ROBBERY,GUN,8,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,CITIZEN ROBBERY,GUN,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,CITIZEN ROBBERY,GUN,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,CITIZEN ROBBERY,GUN,12,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,7,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,CARJACKING,,4,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,CARJACKING,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,CARJACKING,,6,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,CARJACKING,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,CARJACKING,,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,CARJACKING,,12,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,ASSAULT,,10,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,ASSAULT,,7,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,ASSAULT,,40,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,ASSAULT,,16,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,ASSAULT,,29,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,ASSAULT,,102,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,ASSAULT,GUN,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,ASSAULT,GUN,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,ASSAULT,GUN,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,ASSAULT,GUN,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,ASSAULT,GUN,3,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,ASSAULT,GUN,12,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,ASSAULT,KNIFE,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,ASSAULT,KNIFE,3,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,ASSAULT,KNIFE,6,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,ASSAULT,KNIFE,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,ASSAULT,KNIFE,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,ASSAULT,KNIFE,16,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,ASSAULT,OTHER WEAPON,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,ASSAULT,OTHER WEAPON,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,ASSAULT,OTHER WEAPON,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,ASSAULT,OTHER WEAPON,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,ASSAULT,OTHER WEAPON,3,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,ASSAULT,OTHER WEAPON,7,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,persons,ASSAULT,NO WEAPON,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,persons,ASSAULT,NO WEAPON,3,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,persons,ASSAULT,NO WEAPON,27,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,persons,ASSAULT,NO WEAPON,14,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,persons,ASSAULT,NO WEAPON,18,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,persons,ASSAULT,NO WEAPON,67,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,property,B & E RESIDENTIAL,,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,property,B & E RESIDENTIAL,,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,property,B & E RESIDENTIAL,,6,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,property,B & E RESIDENTIAL,,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,property,B & E RESIDENTIAL,,4,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,property,B & E RESIDENTIAL,,18,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,property,B & E RESIDENTIAL,HOMES,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,property,B & E RESIDENTIAL,HOMES,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,property,B & E RESIDENTIAL,HOMES,5,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,property,B & E RESIDENTIAL,HOMES,3,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,property,B & E RESIDENTIAL,HOMES,4,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,property,B & E RESIDENTIAL,HOMES,15,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,property,B & E COMMERCIAL,,7,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,property,B & E COMMERCIAL,,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,property,B & E COMMERCIAL,,6,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,property,B & E COMMERCIAL,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,property,B & E COMMERCIAL,,7,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,property,B & E COMMERCIAL,,21,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,property,STOLEN VEHICLE,,21,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,property,STOLEN VEHICLE,,9,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,property,STOLEN VEHICLE,,35,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,property,STOLEN VEHICLE,,11,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,property,STOLEN VEHICLE,,14,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,property,STOLEN VEHICLE,,90,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,property,THEFT,,97,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,property,THEFT,,14,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,property,THEFT,,316,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,property,THEFT,,18,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,property,THEFT,,67,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,property,THEFT,,512,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_1,property,ARSON,,1,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_2,property,ARSON,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_3,property,ARSON,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_4,property,ARSON,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,ward_5,property,ARSON,,0,,2021 Annual Statistics.pdf,3
+2021,2021,ward,citywide,property,ARSON,,1,,2021 Annual Statistics.pdf,3
+2022,2021,citywide,citywide,persons,HOMICIDE,,1,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,RAPE,,6,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,,5,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,3,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,1,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,CITIZEN ROBBERY,,25,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,CITIZEN ROBBERY,GUN,12,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,5,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,7,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,CARJACKING,,12,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,ASSAULT,,102,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,ASSAULT,GUN,12,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,ASSAULT,KNIFE,16,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,ASSAULT,OTHER WEAPON,7,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,persons,ASSAULT,NO WEAPON,67,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,property,B & E RESIDENTIAL,,18,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,property,B & E RESIDENTIAL,HOMES,15,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,property,B & E COMMERCIAL,,21,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,property,STOLEN VEHICLE,,90,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,property,THEFT,,512,,2022 ANNUAL STATISTICS.pdf,1
+2022,2021,citywide,citywide,property,ARSON,,1,,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,HOMICIDE,,4,300.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,RAPE,,7,17.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,,4,-20.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,2,-33.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,1,0.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,0.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,0.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,CITIZEN ROBBERY,,34,36.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,CITIZEN ROBBERY,GUN,9,-25.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,3,-40.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,0.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,21,200.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,CARJACKING,,13,8.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,ASSAULT,,148,45.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,ASSAULT,GUN,19,58.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,ASSAULT,KNIFE,18,13.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,ASSAULT,OTHER WEAPON,12,71.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,persons,ASSAULT,NO WEAPON,99,48.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,property,B & E RESIDENTIAL,,22,22.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,property,B & E RESIDENTIAL,HOMES,16,7.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,6,100.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,property,B & E COMMERCIAL,,39,86.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,property,STOLEN VEHICLE,,116,29.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,property,THEFT,,536,5.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,citywide,citywide,property,ARSON,,2,100.0,2022 ANNUAL STATISTICS.pdf,1
+2022,2022,ward,ward_1,persons,HOMICIDE,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,HOMICIDE,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,HOMICIDE,,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,HOMICIDE,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,HOMICIDE,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,HOMICIDE,,4,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,RAPE,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,RAPE,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,RAPE,,3,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,RAPE,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,RAPE,,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,RAPE,,7,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,COMMERCIAL ROBBERY,,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,COMMERCIAL ROBBERY,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,COMMERCIAL ROBBERY,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,COMMERCIAL ROBBERY,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,COMMERCIAL ROBBERY,,4,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,CITIZEN ROBBERY,,4,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,CITIZEN ROBBERY,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,CITIZEN ROBBERY,,20,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,CITIZEN ROBBERY,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,CITIZEN ROBBERY,,9,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,CITIZEN ROBBERY,,34,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,CITIZEN ROBBERY,GUN,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,CITIZEN ROBBERY,GUN,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,CITIZEN ROBBERY,GUN,4,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,CITIZEN ROBBERY,GUN,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,CITIZEN ROBBERY,GUN,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,CITIZEN ROBBERY,GUN,9,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,5,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,5,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,16,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,3,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,21,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,CARJACKING,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,CARJACKING,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,CARJACKING,,5,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,CARJACKING,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,CARJACKING,,7,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,CARJACKING,,13,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,ASSAULT,,12,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,ASSAULT,,9,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,ASSAULT,,68,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,ASSAULT,,11,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,ASSAULT,,48,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,ASSAULT,,148,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,ASSAULT,GUN,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,ASSAULT,GUN,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,ASSAULT,GUN,10,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,ASSAULT,GUN,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,ASSAULT,GUN,6,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,ASSAULT,GUN,19,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,ASSAULT,KNIFE,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,ASSAULT,KNIFE,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,ASSAULT,KNIFE,9,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,ASSAULT,KNIFE,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,ASSAULT,KNIFE,7,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,ASSAULT,KNIFE,18,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,ASSAULT,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,ASSAULT,OTHER WEAPON,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,ASSAULT,OTHER WEAPON,5,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,ASSAULT,OTHER WEAPON,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,ASSAULT,OTHER WEAPON,5,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,ASSAULT,OTHER WEAPON,11,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,persons,ASSAULT,NO WEAPON,9,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,persons,ASSAULT,NO WEAPON,9,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,persons,ASSAULT,NO WEAPON,44,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,persons,ASSAULT,NO WEAPON,8,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,persons,ASSAULT,NO WEAPON,30,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,persons,ASSAULT,NO WEAPON,100,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,property,B & E RESIDENTIAL,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,property,B & E RESIDENTIAL,,7,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,property,B & E RESIDENTIAL,,3,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,property,B & E RESIDENTIAL,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,property,B & E RESIDENTIAL,,10,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,property,B & E RESIDENTIAL,,22,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,property,B & E RESIDENTIAL,HOMES,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,property,B & E RESIDENTIAL,HOMES,6,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,property,B & E RESIDENTIAL,HOMES,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,property,B & E RESIDENTIAL,HOMES,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,property,B & E RESIDENTIAL,HOMES,8,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,property,B & E RESIDENTIAL,HOMES,16,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,6,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,property,B & E COMMERCIAL,,17,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,property,B & E COMMERCIAL,,2,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,property,B & E COMMERCIAL,,10,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,property,B & E COMMERCIAL,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,property,B & E COMMERCIAL,,9,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,property,B & E COMMERCIAL,,39,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,property,STOLEN VEHICLE,,20,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,property,STOLEN VEHICLE,,7,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,property,STOLEN VEHICLE,,37,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,property,STOLEN VEHICLE,,23,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,property,STOLEN VEHICLE,,29,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,property,STOLEN VEHICLE,,116,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,property,THEFT,,67,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,property,THEFT,,41,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,property,THEFT,,287,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,property,THEFT,,29,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,property,THEFT,,112,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,property,THEFT,,536,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_1,property,ARSON,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_2,property,ARSON,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_3,property,ARSON,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_4,property,ARSON,,1,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,ward_5,property,ARSON,,0,,2022 ANNUAL STATISTICS.pdf,2
+2022,2022,ward,citywide,property,ARSON,,2,,2022 ANNUAL STATISTICS.pdf,2
+2023,2022,citywide,citywide,persons,HOMICIDE,,4,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,RAPE,,7,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,,4,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,2,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,1,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,CITIZEN ROBBERY,,34,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,CITIZEN ROBBERY,GUN,9,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,3,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,21,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,CARJACKING,,13,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,ASSAULT,,148,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,ASSAULT,GUN,19,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,ASSAULT,KNIFE,18,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,ASSAULT,OTHER WEAPON,12,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,persons,ASSAULT,NO WEAPON,99,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,property,B & E RESIDENTIAL,,22,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,property,B & E RESIDENTIAL,HOMES,16,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,6,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,property,B & E COMMERCIAL,,39,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,property,STOLEN VEHICLE,,116,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,property,THEFT,,536,,2023.Annual.pdf,1
+2023,2022,citywide,citywide,property,ARSON,,2,,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,HOMICIDE,,3,-25.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,RAPE,,7,0.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,,26,550.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,8,300.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,5,400.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,8,800.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,5,400.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,CITIZEN ROBBERY,,87,156.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,CITIZEN ROBBERY,GUN,45,400.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,15,400.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,3,200.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,24,14.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,CARJACKING,,20,54.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,ASSAULT,,164,11.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,ASSAULT,GUN,16,-16.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,ASSAULT,KNIFE,14,-22.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,ASSAULT,OTHER WEAPON,20,67.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,persons,ASSAULT,NO WEAPON,114,15.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,property,B & E RESIDENTIAL,,30,36.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,property,B & E RESIDENTIAL,HOMES,29,81.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,1,-83.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,property,B & E COMMERCIAL,,34,-13.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,property,STOLEN VEHICLE,,314,171.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,property,THEFT,,562,5.0,2023.Annual.pdf,1
+2023,2023,citywide,citywide,property,ARSON,,3,50.0,2023.Annual.pdf,1
+2024,2023,citywide,citywide,persons,HOMICIDE,,3,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,RAPE,,7,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,,26,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,8,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,5,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,8,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,5,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,CITIZEN ROBBERY,,87,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,CITIZEN ROBBERY,GUN,45,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,15,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,3,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,24,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,CARJACKING,,20,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,ASSAULT,,164,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,ASSAULT,GUN,16,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,ASSAULT,KNIFE,14,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,ASSAULT,OTHER WEAPON,20,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,persons,ASSAULT,NO WEAPON,114,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,property,B & E RESIDENTIAL,,30,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,property,B & E RESIDENTIAL,HOMES,29,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,property,B & E COMMERCIAL,,34,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,property,STOLEN VEHICLE,,314,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,property,THEFT,,562,,2024.Annual.pdf,1
+2024,2023,citywide,citywide,property,ARSON,,3,,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,HOMICIDE,,1,-67.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,RAPE,,5,-29.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,,29,12.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,11,38.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,5,0.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,3,-63.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,10,100.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,CITIZEN ROBBERY,,43,-51.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,CITIZEN ROBBERY,GUN,28,-38.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,5,-67.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,-100.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,10,-58.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,CARJACKING,,4,-80.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,ASSAULT,,143,-13.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,ASSAULT,GUN,15,-6.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,ASSAULT,KNIFE,4,-71.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,ASSAULT,OTHER WEAPON,16,-20.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,persons,ASSAULT,NO WEAPON,108,-5.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,property,B & E RESIDENTIAL,,25,-17.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,property,B & E RESIDENTIAL,HOMES,18,-38.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,7,600.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,property,B & E COMMERCIAL,,38,12.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,property,STOLEN VEHICLE,,158,-50.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,property,THEFT,,464,-17.0,2024.Annual.pdf,1
+2024,2024,citywide,citywide,property,ARSON,,0,-100.0,2024.Annual.pdf,1
+2025,2024,citywide,citywide,persons,HOMICIDE,,1,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,RAPE,,5,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,,29,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,11,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,5,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,3,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,10,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,CITIZEN ROBBERY,,43,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,CITIZEN ROBBERY,GUN,28,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,5,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,10,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,CARJACKING,,4,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,ASSAULT,,143,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,ASSAULT,GUN,15,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,ASSAULT,KNIFE,4,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,ASSAULT,OTHER WEAPON,16,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,persons,ASSAULT,NO WEAPON,108,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,property,B & E RESIDENTIAL,,25,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,property,B & E RESIDENTIAL,HOMES,18,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,7,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,property,B & E COMMERCIAL,,38,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,property,STOLEN VEHICLE,,158,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,property,THEFT,,465,,2025.Annual.pdf,1
+2025,2024,citywide,citywide,property,ARSON,,0,,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,HOMICIDE,,0,-100.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,RAPE,,6,20.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,COMMERCIAL ROBBERY,,15,-48.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,COMMERCIAL ROBBERY,GUN,5,-55.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,COMMERCIAL ROBBERY,KNIFE,2,-60.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,-67.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,7,-30.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,CITIZEN ROBBERY,,31,-28.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,CITIZEN ROBBERY,GUN,8,-71.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,CITIZEN ROBBERY,KNIFE,3,-40.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,2,200.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,CITIZEN ROBBERY,STRONG ARM,18,80.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,CARJACKING,,4,0.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,ASSAULT,,132,-8.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,ASSAULT,GUN,9,-40.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,ASSAULT,KNIFE,13,225.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,ASSAULT,OTHER WEAPON,10,-38.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,persons,ASSAULT,NO WEAPON,100,-7.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,property,B & E RESIDENTIAL,,27,8.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,property,B & E RESIDENTIAL,HOMES,21,17.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,6,-14.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,property,B & E COMMERCIAL,,36,-5.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,property,STOLEN VEHICLE,,116,-27.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,property,THEFT,,596,28.0,2025.Annual.pdf,1
+2025,2025,citywide,citywide,property,ARSON,,2,200.0,2025.Annual.pdf,1
+2025,2025,ward,ward_1,persons,HOMICIDE,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,HOMICIDE,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,HOMICIDE,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,HOMICIDE,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,HOMICIDE,,0,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,HOMICIDE,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,RAPE,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,RAPE,,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,RAPE,,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,RAPE,,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,RAPE,,2,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,RAPE,,6,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,COMMERCIAL ROBBERY,,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,COMMERCIAL ROBBERY,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,COMMERCIAL ROBBERY,,12,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,COMMERCIAL ROBBERY,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,COMMERCIAL ROBBERY,,1,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,COMMERCIAL ROBBERY,,15,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,COMMERCIAL ROBBERY,GUN,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,COMMERCIAL ROBBERY,GUN,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,COMMERCIAL ROBBERY,GUN,4,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,COMMERCIAL ROBBERY,GUN,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,COMMERCIAL ROBBERY,GUN,0,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,COMMERCIAL ROBBERY,GUN,5,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,COMMERCIAL ROBBERY,KNIFE,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,COMMERCIAL ROBBERY,KNIFE,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,COMMERCIAL ROBBERY,KNIFE,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,COMMERCIAL ROBBERY,KNIFE,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,COMMERCIAL ROBBERY,KNIFE,0,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,COMMERCIAL ROBBERY,KNIFE,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,COMMERCIAL ROBBERY,OTHER WEAPON,0,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,COMMERCIAL ROBBERY,OTHER WEAPON,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,COMMERCIAL ROBBERY,STRONG ARM,5,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,COMMERCIAL ROBBERY,STRONG ARM,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,COMMERCIAL ROBBERY,STRONG ARM,1,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,COMMERCIAL ROBBERY,STRONG ARM,7,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,CITIZEN ROBBERY,,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,CITIZEN ROBBERY,,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,CITIZEN ROBBERY,,14,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,CITIZEN ROBBERY,,4,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,CITIZEN ROBBERY,,8,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,CITIZEN ROBBERY,,31,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,CITIZEN ROBBERY,GUN,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,CITIZEN ROBBERY,GUN,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,CITIZEN ROBBERY,GUN,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,CITIZEN ROBBERY,GUN,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,CITIZEN ROBBERY,GUN,3,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,CITIZEN ROBBERY,GUN,8,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,CITIZEN ROBBERY,KNIFE,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,CITIZEN ROBBERY,KNIFE,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,CITIZEN ROBBERY,KNIFE,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,CITIZEN ROBBERY,KNIFE,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,CITIZEN ROBBERY,KNIFE,1,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,CITIZEN ROBBERY,KNIFE,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,CITIZEN ROBBERY,OTHER WEAPON,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,CITIZEN ROBBERY,OTHER WEAPON,1,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,CITIZEN ROBBERY,OTHER WEAPON,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,CITIZEN ROBBERY,STRONG ARM,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,CITIZEN ROBBERY,STRONG ARM,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,CITIZEN ROBBERY,STRONG ARM,9,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,CITIZEN ROBBERY,STRONG ARM,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,CITIZEN ROBBERY,STRONG ARM,3,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,CITIZEN ROBBERY,STRONG ARM,18,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,CARJACKING,,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,CARJACKING,,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,CARJACKING,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,CARJACKING,,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,CARJACKING,,1,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,CARJACKING,,4,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,ASSAULT,,16,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,ASSAULT,,17,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,ASSAULT,,60,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,ASSAULT,,14,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,ASSAULT,,25,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,ASSAULT,,132,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,ASSAULT,GUN,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,ASSAULT,GUN,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,ASSAULT,GUN,4,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,ASSAULT,GUN,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,ASSAULT,GUN,0,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,ASSAULT,GUN,9,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,ASSAULT,KNIFE,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,ASSAULT,KNIFE,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,ASSAULT,KNIFE,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,ASSAULT,KNIFE,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,ASSAULT,KNIFE,5,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,ASSAULT,KNIFE,13,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,ASSAULT,OTHER WEAPON,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,ASSAULT,OTHER WEAPON,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,ASSAULT,OTHER WEAPON,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,ASSAULT,OTHER WEAPON,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,ASSAULT,OTHER WEAPON,3,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,ASSAULT,OTHER WEAPON,10,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,persons,ASSAULT,NO WEAPON,11,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,persons,ASSAULT,NO WEAPON,10,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,persons,ASSAULT,NO WEAPON,51,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,persons,ASSAULT,NO WEAPON,11,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,persons,ASSAULT,NO WEAPON,17,,2025.Annual.pdf,2
+2025,2025,ward,citywide,persons,ASSAULT,NO WEAPON,100,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,property,B & E RESIDENTIAL,,4,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,property,B & E RESIDENTIAL,,5,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,property,B & E RESIDENTIAL,,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,property,B & E RESIDENTIAL,,8,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,property,B & E RESIDENTIAL,,7,,2025.Annual.pdf,2
+2025,2025,ward,citywide,property,B & E RESIDENTIAL,,27,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,property,B & E RESIDENTIAL,HOMES,4,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,property,B & E RESIDENTIAL,HOMES,3,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,property,B & E RESIDENTIAL,HOMES,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,property,B & E RESIDENTIAL,HOMES,8,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,property,B & E RESIDENTIAL,HOMES,4,,2025.Annual.pdf,2
+2025,2025,ward,citywide,property,B & E RESIDENTIAL,HOMES,21,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,property,B & E RESIDENTIAL,OUTBUILDINGS,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,property,B & E RESIDENTIAL,OUTBUILDINGS,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,property,B & E RESIDENTIAL,OUTBUILDINGS,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,property,B & E RESIDENTIAL,OUTBUILDINGS,3,,2025.Annual.pdf,2
+2025,2025,ward,citywide,property,B & E RESIDENTIAL,OUTBUILDINGS,6,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,property,B & E COMMERCIAL,,9,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,property,B & E COMMERCIAL,,4,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,property,B & E COMMERCIAL,,17,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,property,B & E COMMERCIAL,,1,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,property,B & E COMMERCIAL,,5,,2025.Annual.pdf,2
+2025,2025,ward,citywide,property,B & E COMMERCIAL,,36,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,property,STOLEN VEHICLE,,15,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,property,STOLEN VEHICLE,,16,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,property,STOLEN VEHICLE,,49,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,property,STOLEN VEHICLE,,18,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,property,STOLEN VEHICLE,,18,,2025.Annual.pdf,2
+2025,2025,ward,citywide,property,STOLEN VEHICLE,,116,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,property,THEFT,,56,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,property,THEFT,,58,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,property,THEFT,,408,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,property,THEFT,,32,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,property,THEFT,,42,,2025.Annual.pdf,2
+2025,2025,ward,citywide,property,THEFT,,596,,2025.Annual.pdf,2
+2025,2025,ward,ward_1,property,ARSON,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_2,property,ARSON,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_3,property,ARSON,,2,,2025.Annual.pdf,2
+2025,2025,ward,ward_4,property,ARSON,,0,,2025.Annual.pdf,2
+2025,2025,ward,ward_5,property,ARSON,,0,,2025.Annual.pdf,2
+2025,2025,ward,citywide,property,ARSON,,2,,2025.Annual.pdf,2
