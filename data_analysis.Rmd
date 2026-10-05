@@ -1,0 +1,54 @@
+---
+title: "Hyattsville Crime Data Analysis"
+output: html_notebook
+---
+
+Analysis of Hyattsville City Police Department annual statistics, 2015–2025. See `data/notes.md` for source-document errors, revised figures and gaps before quoting any number.
+
+## Setup
+
+```{r setup, message=FALSE}
+library(tidyverse)
+library(scales)
+
+totals <- read_csv("data/totals.csv", show_col_types = FALSE)
+```
+
+## Total crimes per year
+
+Citywide totals (crimes against persons + crimes against property), each year's figure taken from its own report.
+
+```{r citywide-totals}
+citywide_totals <- totals |>
+  filter(geography == "citywide", measure == "total") |>
+  select(year, count)
+
+citywide_totals
+```
+
+```{r totals-chart, fig.width=9, fig.height=5}
+ggplot(citywide_totals, aes(x = year, y = count)) +
+  geom_col(fill = "#2a78d6", width = 0.7) +
+  geom_text(aes(label = comma(count)), vjust = -0.5, size = 3.5, color = "#52514e") +
+  scale_x_continuous(breaks = 2015:2025) +
+  scale_y_continuous(labels = comma, expand = expansion(mult = c(0, 0.08))) +
+  labs(
+    title = "Total reported crimes in Hyattsville, 2015–2025",
+    subtitle = "Crimes against persons plus crimes against property, citywide",
+    x = NULL,
+    y = "Total crimes",
+    caption = "Source: Hyattsville City Police Department annual statistics reports"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    plot.title = element_text(face = "bold"),
+    plot.caption = element_text(color = "#52514e", hjust = 0)
+  )
+```
+
+**Notes on these figures**
+
+- The 2024 total is 910 in the 2024 report but 911 in the 2025 report's prior-year column (theft revised from 464 to 465). The chart uses 910.
+- The 2023 spike coincides with stolen vehicles jumping to 314. Whether offense definitions or the records system changed is an open question for HCPD.
